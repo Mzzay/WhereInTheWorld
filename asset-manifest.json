@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/WhereInTheWorld/static/css/main.6ad9ad02.chunk.css",
-    "main.js": "/WhereInTheWorld/static/js/main.88c6c0b5.chunk.js",
-    "main.js.map": "/WhereInTheWorld/static/js/main.88c6c0b5.chunk.js.map",
+    "main.js": "/WhereInTheWorld/static/js/main.58f54a5c.chunk.js",
+    "main.js.map": "/WhereInTheWorld/static/js/main.58f54a5c.chunk.js.map",
     "runtime-main.js": "/WhereInTheWorld/static/js/runtime-main.f2cb7942.js",
     "runtime-main.js.map": "/WhereInTheWorld/static/js/runtime-main.f2cb7942.js.map",
-    "static/js/2.f537b811.chunk.js": "/WhereInTheWorld/static/js/2.f537b811.chunk.js",
-    "static/js/2.f537b811.chunk.js.map": "/WhereInTheWorld/static/js/2.f537b811.chunk.js.map",
+    "static/js/2.e18e9e87.chunk.js": "/WhereInTheWorld/static/js/2.e18e9e87.chunk.js",
+    "static/js/2.e18e9e87.chunk.js.map": "/WhereInTheWorld/static/js/2.e18e9e87.chunk.js.map",
     "static/js/3.8a692420.chunk.js": "/WhereInTheWorld/static/js/3.8a692420.chunk.js",
     "static/js/3.8a692420.chunk.js.map": "/WhereInTheWorld/static/js/3.8a692420.chunk.js.map",
     "index.html": "/WhereInTheWorld/index.html",
     "static/css/main.6ad9ad02.chunk.css.map": "/WhereInTheWorld/static/css/main.6ad9ad02.chunk.css.map",
-    "static/js/2.f537b811.chunk.js.LICENSE.txt": "/WhereInTheWorld/static/js/2.f537b811.chunk.js.LICENSE.txt"
+    "static/js/2.e18e9e87.chunk.js.LICENSE.txt": "/WhereInTheWorld/static/js/2.e18e9e87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f2cb7942.js",
-    "static/js/2.f537b811.chunk.js",
+    "static/js/2.e18e9e87.chunk.js",
     "static/css/main.6ad9ad02.chunk.css",
-    "static/js/main.88c6c0b5.chunk.js"
+    "static/js/main.58f54a5c.chunk.js"
   ]
 }
