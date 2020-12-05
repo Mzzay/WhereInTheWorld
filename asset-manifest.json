@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nomDuRepository/static/css/main.6ad9ad02.chunk.css",
+    "main.js": "/nomDuRepository/static/js/main.88c6c0b5.chunk.js",
+    "main.js.map": "/nomDuRepository/static/js/main.88c6c0b5.chunk.js.map",
+    "runtime-main.js": "/nomDuRepository/static/js/runtime-main.ed8e9061.js",
+    "runtime-main.js.map": "/nomDuRepository/static/js/runtime-main.ed8e9061.js.map",
+    "static/js/2.f537b811.chunk.js": "/nomDuRepository/static/js/2.f537b811.chunk.js",
+    "static/js/2.f537b811.chunk.js.map": "/nomDuRepository/static/js/2.f537b811.chunk.js.map",
+    "static/js/3.8a692420.chunk.js": "/nomDuRepository/static/js/3.8a692420.chunk.js",
+    "static/js/3.8a692420.chunk.js.map": "/nomDuRepository/static/js/3.8a692420.chunk.js.map",
+    "index.html": "/nomDuRepository/index.html",
+    "static/css/main.6ad9ad02.chunk.css.map": "/nomDuRepository/static/css/main.6ad9ad02.chunk.css.map",
+    "static/js/2.f537b811.chunk.js.LICENSE.txt": "/nomDuRepository/static/js/2.f537b811.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed8e9061.js",
+    "static/js/2.f537b811.chunk.js",
+    "static/css/main.6ad9ad02.chunk.css",
+    "static/js/main.88c6c0b5.chunk.js"
+  ]
+}
